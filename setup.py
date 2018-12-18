@@ -49,7 +49,7 @@ setup(
         'letter==0.5',
         'jinja2==2.10',
         'django==2.0.9',
-        'requests==2.20.1',
+        'requests==2.21.0',
         'django-axes==1.7.0',
         'djangorestframework==3.7.4',
         'django-reversion==3.0.1',
